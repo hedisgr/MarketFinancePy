@@ -23,13 +23,10 @@ This repository utilizes various Python tools and libraries, including:
 
 ## Installation
 
-To use these projects, first clone the repository:
+To use these projects, first clone the repository and then install the necessary dependencies:
 
 ```bash
 git clone https://github.com/hedisgr/MarketFinancePy.git
 
-Then install the necessary dependencies:
-
-```bash
 pip install -r requirements.txt
 
