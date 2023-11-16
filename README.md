@@ -26,4 +26,4 @@ This repository utilizes various Python tools and libraries, including:
 To use these projects, first clone the repository:
 
 ```bash
-git clone https://github.com/your_username/MarketFinancePy.git
+git clone https://github.com/hedisgr/MarketFinancePy.git
