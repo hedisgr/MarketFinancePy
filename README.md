@@ -27,3 +27,9 @@ To use these projects, first clone the repository:
 
 ```bash
 git clone https://github.com/hedisgr/MarketFinancePy.git
+
+Then install the necessary dependencies:
+
+```bash
+pip install -r requirements.txt
+
